@@ -30,3 +30,5 @@ bin/
 .DS_Store
 /.gitignore
 /src/day01/
+/.idea/
+/.idea/
